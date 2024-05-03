@@ -59,7 +59,7 @@ const Friend = ({ friendId, name, subtitle, userPicturePath }) => {
           >
             {name}
           </Typography>
-          <Typography color={medium} fontSize="0.75rem">
+          <Typography color={medium} fontSize="0.60rem">
             {subtitle}
           </Typography>
         </Box>
